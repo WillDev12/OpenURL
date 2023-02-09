@@ -51,6 +51,8 @@ function openUrl() {
 ```
 When you run, you will see that your url will open up in a new tab.
 
+- - -
+
 ### Interested in this kind of content?
 
 Check out my [profile](https://github.com/WillDev12) or share it! (This means a lot to me)
